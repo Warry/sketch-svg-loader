@@ -1,6 +1,6 @@
 {
   "name": "sketch-svg-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Load cleaned Sketchapp's svg files in webpack",
   "licenses": [
     {
