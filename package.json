@@ -1,0 +1,15 @@
+{
+  "name": "sketch-svg-loader",
+  "version": "0.0.2",
+  "description": "Load cleaned Sketchapp's svg files in webpack",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Warry/sketch-svg-loader/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "mercury": "^14.0.0",
+    "sax": "0.4.x"
+  }
+}
